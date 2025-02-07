@@ -1,7 +1,7 @@
 import numpy as np
 from pykdtree.kdtree import KDTree
 import pandas as pd
-from src.io import load_file, save_file
+from inout import load_file, save_file
 import argparse
 import os
 
